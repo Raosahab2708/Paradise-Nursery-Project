@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Paradise-Nursery-Project/static/css/main.ed0b315b.css",
-    "main.js": "/Paradise-Nursery-Project/static/js/main.9a1bd60c.js",
-    "static/media/spider plant.jpg": "/Paradise-Nursery-Project/static/media/spider plant.d1ac59bdd9063e3b16bf.jpg",
-    "static/media/N2-hydroponica.jpg": "/Paradise-Nursery-Project/static/media/N2-hydroponica.dd8af5f04928261a4274.jpg",
-    "static/media/Fiddel Leaf.jpg": "/Paradise-Nursery-Project/static/media/Fiddel Leaf.ba1cd7a04b08b554cb2a.jpg",
-    "static/media/boston fern.jpg": "/Paradise-Nursery-Project/static/media/boston fern.1f9fabda2a62bac509f5.jpg",
-    "static/media/snake_plant.jpeg": "/Paradise-Nursery-Project/static/media/snake_plant.9b5776dde310d6f1e708.jpeg",
-    "static/media/peace lily.png": "/Paradise-Nursery-Project/static/media/peace lily.bcf27015d594ae3c35d4.png",
-    "static/media/aloe_vera.jpg": "/Paradise-Nursery-Project/static/media/aloe_vera.cb9f484c8b1ed74d2c4c.jpg",
-    "index.html": "/Paradise-Nursery-Project/index.html",
-    "main.ed0b315b.css.map": "/Paradise-Nursery-Project/static/css/main.ed0b315b.css.map",
-    "main.9a1bd60c.js.map": "/Paradise-Nursery-Project/static/js/main.9a1bd60c.js.map"
+    "main.css": "/static/css/main.06572035.css",
+    "main.js": "/static/js/main.dde8b8b9.js",
+    "static/media/spider plant.jpg": "/static/media/spider plant.d1ac59bdd9063e3b16bf.jpg",
+    "static/media/N2-hydroponica.jpg": "/static/media/N2-hydroponica.dd8af5f04928261a4274.jpg",
+    "static/media/Fiddel Leaf.jpg": "/static/media/Fiddel Leaf.ba1cd7a04b08b554cb2a.jpg",
+    "static/media/boston fern.jpg": "/static/media/boston fern.1f9fabda2a62bac509f5.jpg",
+    "static/media/snake_plant.jpeg": "/static/media/snake_plant.9b5776dde310d6f1e708.jpeg",
+    "static/media/peace lily.png": "/static/media/peace lily.bcf27015d594ae3c35d4.png",
+    "static/media/aloe_vera.jpg": "/static/media/aloe_vera.cb9f484c8b1ed74d2c4c.jpg",
+    "index.html": "/index.html",
+    "main.06572035.css.map": "/static/css/main.06572035.css.map",
+    "main.dde8b8b9.js.map": "/static/js/main.dde8b8b9.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed0b315b.css",
-    "static/js/main.9a1bd60c.js"
+    "static/css/main.06572035.css",
+    "static/js/main.dde8b8b9.js"
   ]
 }
